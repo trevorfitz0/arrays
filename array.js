@@ -8,3 +8,13 @@ moreStrings = strings[0];
 moreNums = nums[3];
 //This will call for false
 moreBools = bools[1];
+
+var openEnded = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+//Calling 2 
+firstCall = openEnded[3];
+//Calling 3
+secondCall = openEnded[4];
+//Calling 4
+thirdCall = openEnded[5];
+
